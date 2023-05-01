@@ -21,7 +21,6 @@ for(int i=0; i<vec.size(); i++){
 return temp;
 }
 
-
 //Using stack
 vector<int> nge(vector<int> &vec){
     vector<int> temp(vec.size() , -1);
